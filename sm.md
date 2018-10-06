@@ -35,6 +35,8 @@ https://www.iplaysoft.com/macos-usb-install-drive.html
 
 <font color=#82cade>目前情况：换了硬盘后，耗电量变大了，不知道是硬盘问题还是系统问题</font>
 
+有不懂的再问我吧
+
  
 
 
