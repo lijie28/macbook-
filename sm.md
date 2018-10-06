@@ -3,7 +3,9 @@
 ## 准备材料：
 置换的ssd(M.2接口)、用来备份资料或time mechine的硬盘或U盘（非必需）、工具套（主要是1.2 5角的 和T5 梅花 螺丝刀）、8G以上的U盘（用来制作系统安装盘）
 
-![github](http://example.com/unicorn.png “github”)
+![1](https://github.com/lijie28/macbook-/blob/master/IMG_5012.PNG?raw=true)
+![2](https://github.com/lijie28/macbook-/blob/master/IMG_5013.PNG?raw=true)
+![3](https://github.com/lijie28/macbook-/blob/master/1.jpg?raw=true)
 
 以目前最新系统(Mojave)为例，<font color=#82cade>先从APP STORE上下载最新系统</font>，下载完不要马上安装，先制作系统安装盘
 
@@ -17,6 +19,8 @@ https://www.iplaysoft.com/macos-usb-install-drive.html
 安装好新系统后，就可以关机，准备拆机了
 
 先卸下后盖，可见硬盘，换上套上转接卡后的ssd
+
+![3](https://github.com/lijie28/macbook-/blob/master/2.jpg?raw=true)
 
 换上后以防万一，<font color=#82cade>建议先不要装上后盖，先装系统</font>
 
